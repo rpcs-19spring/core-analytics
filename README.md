@@ -4,8 +4,8 @@ Group member:
 Xiaoyu Qiu (leader)
 Yuling Liu (presenter)
 Jennifer Liu (editor)
-Weiling Chang
-Luo Yu
+Weiling Chang,
+Luo Yu,
 Annan Ma
 
 Checkpoint:
